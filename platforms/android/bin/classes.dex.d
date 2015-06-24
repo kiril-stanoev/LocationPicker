@@ -1,0 +1,26 @@
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\classes.dex : \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\classes\com\google\android\gms\R$attr.class \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\classes\com\google\android\gms\R$color.class \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\classes\com\google\android\gms\R$drawable.class \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\classes\com\google\android\gms\R$id.class \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\classes\com\google\android\gms\R$integer.class \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\classes\com\google\android\gms\R$raw.class \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\classes\com\google\android\gms\R$string.class \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\classes\com\google\android\gms\R$style.class \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\classes\com\google\android\gms\R$styleable.class \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\classes\com\google\android\gms\R.class \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\classes\org\nativescript\LocationPickerTest\BuildConfig.class \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\classes\org\nativescript\LocationPickerTest\R$attr.class \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\classes\org\nativescript\LocationPickerTest\R$color.class \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\classes\org\nativescript\LocationPickerTest\R$drawable.class \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\classes\org\nativescript\LocationPickerTest\R$id.class \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\classes\org\nativescript\LocationPickerTest\R$integer.class \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\classes\org\nativescript\LocationPickerTest\R$raw.class \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\classes\org\nativescript\LocationPickerTest\R$string.class \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\classes\org\nativescript\LocationPickerTest\R$style.class \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\classes\org\nativescript\LocationPickerTest\R$styleable.class \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\classes\org\nativescript\LocationPickerTest\R.class \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\dexedLibs\classes-bc3a6720aec0a0d2b852abd05ea7c2ce.jar \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\dexedLibs\nativescript-9d088ef66ad32a1d64ee8a658d880692.jar \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\dexedLibs\android-support-v4-81e71adc0fed3f57971e95820299d6bc.jar \
+D:\NativeScriptPlayground\LocationPickerTest\platforms\android\bin\dexedLibs\google-play-services-596ef118aa8a97e4d353ee37db191ab7.jar \

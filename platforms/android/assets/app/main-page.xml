@@ -1,0 +1,7 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="onLoaded">
+  <StackLayout>
+    <Button text="Launch Location Picker" tap="onButtonTap" />
+    <Label id="name" />
+    <Label id="address" />
+  </StackLayout>
+</Page>

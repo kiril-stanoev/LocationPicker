@@ -1,0 +1,6 @@
+{
+	"id": "org.nativescript.LocationPickerTest",
+	"tns-android": {
+		"version": "1.0.0"
+	}
+}
