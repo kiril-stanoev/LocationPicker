@@ -30,7 +30,7 @@
 		
 		<!-- NOTE -->
 		<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
-		<meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyAeeM-20W2mLHRMaHt9KQNthxMLQSmdlyg"/>
+		<meta-data android:name="com.google.android.geo.API_KEY" android:value="[PLAYSTORE_KEY_HERE]"/>
 		
 		<activity
             android:name="com.tns.NativeScriptActivity"
